@@ -1,9 +1,0 @@
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\bin\Debug\netstandard2.0\HolidaysCZ.deps.json
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\bin\Debug\netstandard2.0\HolidaysCZ.dll
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\bin\Debug\netstandard2.0\HolidaysCZ.pdb
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\obj\Debug\netstandard2.0\HolidaysCZ.csproj.CoreCompileInputs.cache
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\obj\Debug\netstandard2.0\HolidaysCZ.AssemblyInfoInputs.cache
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\obj\Debug\netstandard2.0\HolidaysCZ.AssemblyInfo.cs
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\obj\Debug\netstandard2.0\HolidaysCZ.dll
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\obj\Debug\netstandard2.0\HolidaysCZ.pdb
-C:\Dalibor\desarrollo\GitHubProjects\HolidaysCZ\HolidaysCZ\HolidaysCZ\obj\Debug\netstandard2.0\HolidaysCZ.csprojResolveAssemblyReference.cache
